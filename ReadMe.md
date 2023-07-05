@@ -15,7 +15,7 @@
 &nbsp;
 
 <p align="center">
-    <a href="https://wakatime.com/badge/github/Morilhat-Paul/RepoCloner"><img src="https://wakatime.com/badge/github/Morilhat-Paul/RepoCloner.svg" alt="wakatime"></a>
+    <a href="https://wakatime.com/badge/user/f89f3963-87cd-4969-8e58-4a417bfb1341/project/56361e71-aa26-408d-a3b1-1aeb72561f16"><img src="https://wakatime.com/badge/user/f89f3963-87cd-4969-8e58-4a417bfb1341/project/56361e71-aa26-408d-a3b1-1aeb72561f16.svg" alt="wakatime"></a>
     <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/Morilhat-Paul/RepoCloner?style=plastic">
 </p>
 
