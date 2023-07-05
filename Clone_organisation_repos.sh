@@ -12,10 +12,10 @@ LYELLOW="\e[93m"
 RED="\e[31m"
 
 # Replace <YOUR_TOKEN> with your personal GitHub access token
-TOKEN="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"
+TOKEN="<YOUR_TOKEN>"
 
-# Replace <ORGANISATION> with the GitHub company name
-ORGANISATION="EpitechPromo2027"
+# Replace <ORGANISATION> with the GitHub organisation name
+ORGANISATION="<ORGANISATION>"
 
 page=1
 repos=()
